@@ -59,3 +59,8 @@ div.vis-network div.vis-navigation div.vis-button.vis-zoomExtends {
     bottom:50px;
     right:15px;
 }
+div.vis-network div.vis-navigation div.vis-button.vis-fullScreen {
+    background-image: url("img/network/fullScreen.png");
+    bottom:50px;
+    right:55px;
+}
